@@ -1,5 +1,6 @@
 #main {
     width: 100px;
+    height: 100px;
     background: green;
     border-radius: 50%;
     margin: 50px;
@@ -13,6 +14,7 @@
 
 #pink {
     width: 100px;
+    height: 100px;
     background: pink;
     margin: 50px;
 }
@@ -21,5 +23,12 @@
     width: 100px;
     height: 100px;
     background: blue;
+    margin: 50px;
+}
+
+#block {
+    width: 100px;
+    height: 100px;
+    background: black;
     margin: 50px;
 }
